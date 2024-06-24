@@ -5,4 +5,4 @@ it allows you to choose the modules (all are trained already so the analysing sh
 this project is built using react, python, flask
 
 and to make the project work please make sure to download the files:
-[link](https://imageai.readthedocs.io/en/latest/prediction/index.html)
+[the requirements](https://imageai.readthedocs.io/en/latest/prediction/index.html)
