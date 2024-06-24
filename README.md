@@ -1,4 +1,4 @@
-# tell him anything and wait for the response
+# give him any image and wait for the magic to heppen
 
 an AI website that predict the image you give to it and give you the certainty of the results
 it allows you to choose the modules (all are trained already so the analysing should be fast)
