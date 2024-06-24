@@ -1,0 +1,27 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+backend/densenet121-a639ec97.pth
+backend/inception_v3_google-1a9a5a14.pth
+backend/mobilenet_v2-b0353104.pth
+backend/resnet50-19c8e357.pth
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
